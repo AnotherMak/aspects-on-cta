@@ -7,6 +7,3 @@ Please see the [Manual](/MANUAL.md) for instructions on how to use the pipeline.
 
 ## License
 This project is licensed under the MIT License, allowing you to use, modify, and distribute the code for both non-commercial and commercial purposes. Please see the LICENSE file for more details.
-
-## Version
-Current Version: 0.2
